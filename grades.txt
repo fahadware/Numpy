@@ -1,0 +1,6 @@
+Marks: 55::Grade: F GRADE
+Marks: 66::Grade: PASS
+Marks: 82::Grade: A GRADE
+Marks: 90::Grade: A+ GRADE
+Marks: 69::Grade: D+ GRADE
+Marks: 72::Grade: B GRADE
